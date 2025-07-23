@@ -32,25 +32,25 @@ I'm passionate about building robust applications, exploring frameworks, and div
 
 ### 📊 GitHub Stats
 
-![Amortha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajeebBhattacharjee&show_icons=true&theme=github_dark)
+![Amortha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajeebBhattacharjee&show_icons=true&theme=github_dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajeebBhattacharjee&layout=compact&theme=github_dark)
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![Email](https://img.shields.io/badge/Email-Mail-informational?style=flat&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amortha-paul-a818b1376)  
+[![Email](https://img.shields.io/badge/Email-ankon000111@gmail.com-informational?style=flat&logo=gmail)](mailto:ankon000111@gmail.com)
 
 ---
 
 ### 📌 Fun Facts
 
-- 🌱 Currently learning: Firebase, REST APIs, and backend integration with Flutter
-- 🛠️ Building: Mobile apps with Flutter + Firebase
-- 🧠 Exploring: UI/UX for mobile apps and cloud functions
-- 🎯 2025 Goal: Publish an app on Play Store
-- 🐱 Fun Fact: I love clean UI and debugging like a puzzle 🧩
+- 🌱 Currently learning: Firebase, REST APIs, and backend integration with Flutter  
+- 🛠️ Building: Mobile apps with Flutter + Firebase  
+- 🧠 Exploring: UI/UX for mobile apps and cloud functions  
+- 🎯 2025 Goal: Publish an app on Play Store  
+- 🐱 Fun Fact: I love clean UI and debugging like a puzzle 🧩  
 
 ---
 
