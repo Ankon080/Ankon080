@@ -38,7 +38,7 @@ I'm passionate about building robust applications, exploring frameworks, and div
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankon080&layout=compact&theme=github_dark&v=1)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ankon080&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
