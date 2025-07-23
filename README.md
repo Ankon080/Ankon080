@@ -32,8 +32,8 @@ I'm passionate about building robust applications, exploring frameworks, and div
 
 ### 📊 GitHub Stats
 
-![Amortha's GitHub stats ](https://github-readme-stats.vercel.app/api?username=SajeebBhattacharjee&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajeebBhattacharjee&layout=compact&theme=github_dark)
+![Amortha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmorthaPaul&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmorthaPaul&layout=compact&theme=github_dark)
 
 ---
 
@@ -55,5 +55,5 @@ I'm passionate about building robust applications, exploring frameworks, and div
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SajeebBhattacharjee&label=Profile+Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AmorthaPaul&label=Profile+Views&color=blue&style=flat" alt="profile views"/>
 </p>
