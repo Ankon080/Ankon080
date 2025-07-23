@@ -33,7 +33,7 @@ I'm passionate about building robust applications, exploring frameworks, and div
 ### 📊 GitHub Stats
 
 ![Amortha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmorthaPaul&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmorthaPaul&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankon080&layout=compact&theme=github_dark)
 
 ---
 
