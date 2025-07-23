@@ -32,8 +32,14 @@ I'm passionate about building robust applications, exploring frameworks, and div
 
 ### 📊 GitHub Stats
 
-![Amortha's GitHub stats](https://github-readme-stats.vercel.app/api?username==Ankon080&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankon080&layout=compact&theme=github_dark)
+### 📊 GitHub Stats
+
+![Ankon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankon080&show_icons=true&theme=github_dark&v=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankon080&layout=compact&theme=github_dark&v=1)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ankon080&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
