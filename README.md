@@ -32,7 +32,7 @@ I'm passionate about building robust applications, exploring frameworks, and div
 
 ### 📊 GitHub Stats
 
-![Sajeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajeebBhattacharjee&show_icons=true&theme=github_dark)
+![Amortha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajeebBhattacharjee&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajeebBhattacharjee&layout=compact&theme=github_dark)
 
 ---
